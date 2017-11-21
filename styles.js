@@ -2,10 +2,10 @@ import { StyleSheet } from 'react-native';
 
 export default StyleSheet.create({
   container: {
-    ...StyleSheet.absoluteFillObject,
+//     ...StyleSheet.absoluteFillObject,
 
-    flexDirection: 'row',
-    justifyContent: 'center',
-    alignItems: 'center',
+//     flexDirection: 'row',
+//     justifyContent: 'center',
+//     alignItems: 'center',
   },
 });
